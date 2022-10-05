@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "FFC93901-093F-4951-B99B-AD53301B572B"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F492771C-5244-496E-8CB3-0B71F6BF2AB0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WhoAmI/DetailView-ViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "46"
+            endingLineNumber = "46">
+            <Locations>
+               <Location
+                  uuid = "F492771C-5244-496E-8CB3-0B71F6BF2AB0 - f17abb8f153dd443"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WhoAmI.DetailView.ViewModel.addImageToList() -&gt; ()"
+                  moduleName = "WhoAmI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fabricioalvarenga/Desktop/SwiftUI/WhoAmI/WhoAmI/DetailView-ViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "1088">
+               </Location>
+               <Location
+                  uuid = "F492771C-5244-496E-8CB3-0B71F6BF2AB0 - f17abb8f153dd443"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WhoAmI.DetailView.ViewModel.addImageToList() -&gt; ()"
+                  moduleName = "WhoAmI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fabricioalvarenga/Desktop/SwiftUI/WhoAmI/WhoAmI/DetailView-ViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "1208">
+               </Location>
+               <Location
+                  uuid = "F492771C-5244-496E-8CB3-0B71F6BF2AB0 - 15329c087be46656"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (WhoAmI.Photo) -&gt; Swift.Bool in WhoAmI.DetailView.ViewModel.addImageToList() -&gt; ()"
+                  moduleName = "WhoAmI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fabricioalvarenga/Desktop/SwiftUI/WhoAmI/WhoAmI/DetailView-ViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "136">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "79E53B0D-F158-43D0-8419-8A24624B379D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WhoAmI/DetailView-ViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "47"
+            endingLineNumber = "47">
+            <Locations>
+               <Location
+                  uuid = "79E53B0D-F158-43D0-8419-8A24624B379D - f17abb8f153dd443"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WhoAmI.DetailView.ViewModel.addImageToList() -&gt; ()"
+                  moduleName = "WhoAmI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fabricioalvarenga/Desktop/SwiftUI/WhoAmI/WhoAmI/DetailView-ViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "1088">
+               </Location>
+               <Location
+                  uuid = "79E53B0D-F158-43D0-8419-8A24624B379D - f17abb8f153dd443"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WhoAmI.DetailView.ViewModel.addImageToList() -&gt; ()"
+                  moduleName = "WhoAmI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fabricioalvarenga/Desktop/SwiftUI/WhoAmI/WhoAmI/DetailView-ViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "1208">
+               </Location>
+               <Location
+                  uuid = "79E53B0D-F158-43D0-8419-8A24624B379D - 15329c087be46656"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (WhoAmI.Photo) -&gt; Swift.Bool in WhoAmI.DetailView.ViewModel.addImageToList() -&gt; ()"
+                  moduleName = "WhoAmI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fabricioalvarenga/Desktop/SwiftUI/WhoAmI/WhoAmI/DetailView-ViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "136">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0CBDC677-7198-4CB8-BE8B-25D141BCB9E0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WhoAmI/DetailView-ViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "51"
+            endingLineNumber = "51">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CAB9F135-4914-486A-A5BF-BCA43D982368"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WhoAmI/DetailView-ViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "52"
+            endingLineNumber = "52">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A7734CE1-855A-4DD6-9AB3-37EFB289D865"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WhoAmI/DetailView-ViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "56"
+            endingLineNumber = "56">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
